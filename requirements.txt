@@ -182,7 +182,7 @@ Pillow==7.1.2
 prettytable==0.7.2
 prometheus-client==0.7.1
 prompt-toolkit==3.0.4
-Pygments==2.6.1
+Pygments==2.7.4
 pymc3==3.9.2
 pyparsing==2.4.7
 pyrsistent==0.16.0
